@@ -8,4 +8,12 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	text-align: center;
+}
+hr {
+	height: 2px;
+	color: white;
+	width: 30%;
+	margin-left: 450px;
+	text-align: center;
 }
